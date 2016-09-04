@@ -1,0 +1,1 @@
+require('./mvc/server').runServer(8080, require('./config'));
