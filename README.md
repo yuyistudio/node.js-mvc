@@ -1,8 +1,7 @@
 # MVC demo
 
-### Based on Node.JS v4.5.0
+Based on Node.JS v4.5.0.
+Shell command `node ./main.js`
 
-### example
-`node ./main.js`
-
-[原始链接](http://www.oschina.net/question/12_17345)
+----
+[Original Publish](http://www.oschina.net/question/12_17345)
