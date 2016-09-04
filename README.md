@@ -3,3 +3,5 @@
 ----
 ## example
 `node ./main.js`
+
+[原始链接](#http://www.oschina.net/question/12_17345)
