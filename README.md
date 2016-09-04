@@ -1,6 +1,6 @@
 # MVC demo
 
-Based on Node.JS v4.5.0.
+Based on Node.JS v4.5.0.  
 Shell command `node ./main.js`
 
 ----
